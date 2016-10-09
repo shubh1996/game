@@ -1,0 +1,12 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+.game{
+    padding-left: 0px;
+    padding-right:5px; 
+    display: flex;
+    display: inline-block;
+    flex:wrap;
+    width:100vmax;
+    max-height: 60%;
+   background-image: url('http://www.vgdrc.com/wp-content/uploads/2014/10/sport-ball-and-net-for-football-080422-1-2.jpg');
+    overflow: hidden;
+}

@@ -1,0 +1,12 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+.game{
+    padding-left: 0px;
+    padding-right:5px; 
+    display: flex;
+    display: inline-block;
+    flex:wrap;
+    width:100vmax;
+    max-height: 60%;
+   background-image: url('https://mixtt.files.wordpress.com/2008/06/alpha.jpg');
+    overflow: hidden;
+}
