@@ -1,0 +1,12 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+.game{
+    padding-left: 0px;
+    padding-right:5px; 
+    display: flex;
+    display: inline-block;
+    flex:wrap;
+    width:100vmax;
+    max-height: 60%;
+   background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Home_made_Indian_Panipuri.jpg/1280px-Home_made_Indian_Panipuri.jpg');
+    overflow: hidden;
+}

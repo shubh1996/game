@@ -1,0 +1,47 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-color: red;
+}
+.top{
+    display: flex;
+    display: inline-block;
+    flex:wrap;
+    width:100vmax;
+    height:20%;
+    margin:auto;
+    background-color:lawngreen;
+}
+h1{
+    
+    text-align: center;
+    color:yellow;
+    background-color: black;
+}
+button{
+    margin:0px;  
+    height:100px;
+    width: 170px;
+    color: black;
+    background-color: orange;
+    border-color: transparent;
+    
+}
+.opt{
+    margin:30px;
+    background-color: gray;
+    display: flex;
+    display: inline-block;
+    flex-grow: 1;
+}
+.bottom{
+    height: 30%;
+    background-color: black;
+    color:white; 
+    text-align: center;
+}

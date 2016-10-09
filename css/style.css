@@ -1,0 +1,19 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+body{
+    width: 100vmax;
+    height: 100vmax;
+    background-color: aqua;
+}
+div{
+        
+    width: 100vmax;
+    height: 100vmax;
+}
+button{
+    margin:auto;
+    height:100px;
+    width: 200px;
+    color: black;
+    background-color: blue;
+    
+}

@@ -1,0 +1,12 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+.game{
+    padding-left: 0px;
+    padding-right:5px; 
+    display: flex;
+    display: inline-block;
+    flex:wrap;
+    width:100vmax;
+    max-height: 60%;
+   background-image: url('http://www.tajmahal.org.uk/gifs/taj-mahal.jpeg');
+    overflow: hidden;
+}
