@@ -10,9 +10,16 @@ var wrong = function(){
 };
 
 $(document).ready(function(){
-    $('.olpbtn').on('mouseover',function(){
-    var btnid=$(this).attr('id');
-    $('#'+btnid).html(".");
-    $('#'+btnid).css({'background-color':'transparent','border-color':'transparent'});    
-});
+    $('.olpbtn').mouseenter(function(){
+     var btnid=$(this).attr('id');                       
+      $('#'+btnid).html(".");
+    $('#'+btnid).css({'background-color':'transparent','border-color':'transparent'});                        
+    });
+    $('.olpbtn').mouseleave(function(){
+     var btnid=$(this).attr('id');                       
+      $('#'+btnid).html("HOVER OVER ME");
+    $('#'+btnid).css({'background-color':'orange','border-color':'transparent'});     
+    
+    });
+
     });
