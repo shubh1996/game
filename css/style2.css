@@ -5,7 +5,8 @@
     display: flex;
     display: inline-block;
     flex:wrap;
-    width:100vmax;
+    margin-left:22%;
+    width:55%;
     max-height: 60%;
    background-image: url('http://www.tajmahal.org.uk/gifs/taj-mahal.jpeg');
     overflow: hidden;

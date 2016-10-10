@@ -5,8 +5,9 @@
     display: flex;
     display: inline-block;
     flex:wrap;
-    width:100vmax;
+    margin-left:32%;
+    width:37%;
     max-height: 60%;
    background-image: url('http://media1.santabanta.com/full1/Indian%20%20Celebrities(M)/Hrithik%20Roshan/hrithik-roshan-89a.jpg');
     overflow: hidden;
-}
+} 

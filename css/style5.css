@@ -5,7 +5,8 @@
     display: flex;
     display: inline-block;
     flex:wrap;
-    width:100vmax;
+    margin-left:25%;
+    width:55%;
     max-height: 60%;
    background-image: url('http://www.vgdrc.com/wp-content/uploads/2014/10/sport-ball-and-net-for-football-080422-1-2.jpg');
     overflow: hidden;
